@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "530181365730",
+    "firebase_url": "https://iticdemo-c9e0f.firebaseio.com",
+    "project_id": "iticdemo-c9e0f",
+    "storage_bucket": "iticdemo-c9e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530181365730:android:04cad613de13e730",
+        "android_client_info": {
+          "package_name": "com.ittepic.tdm_testfirebase_ivanleobardoestradasalinas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530181365730-eflp7f810d1trordr42h2k16fkoe2mhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuufvlvaW-kELKKFrtpGVXV5qDF9JMb4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
